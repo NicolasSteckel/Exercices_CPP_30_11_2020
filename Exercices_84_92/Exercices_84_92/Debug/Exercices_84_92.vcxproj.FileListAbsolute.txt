@@ -1,0 +1,2 @@
+D:\Ludus\Cours\GitHub\C++\Exercices_84_92\Exercices_84_92\Debug\Exercices_84_92.exe
+D:\Ludus\Cours\GitHub\C++\Exercices_84_92\Exercices_84_92\Debug\Exercices_84_92.pdb
